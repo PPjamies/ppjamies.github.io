@@ -1,9 +1,11 @@
 import React from 'react'
 
+import Contact from '@/components/contact/contact.tsx'
+
 const App = () => {
     return (
         <>
-            <div>APPPPPPP</div>
+            <Contact/>
         </>
     )
 }
